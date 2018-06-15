@@ -20,6 +20,9 @@
   <string name="advanced_reboot_disabled">Отключить</string>
   <string name="advanced_reboot_hide_on_keyguard">Скрыть на экране блокировки</string>
   <string name="advanced_reboot_show_always">Показывать всегда</string>
+  <!-- MTP Dirty Hack -->
+  <string name="enable_mtp_dirtyhack_title">MTP вместо Зарядки</string>
+  <string name="enable_mtp_dirtyhack_summary">Включить MTP вместо Зарядки при подключении к ПК</string>
   <!-- About phone screen, Slim version -->
   <string name="slim_version_title">Версия Slim</string>
   <string name="slim_version_default">Неизвестно</string>

@@ -190,6 +190,12 @@
             android:title="@string/mobile_data_always_on"
             android:summary="@string/mobile_data_always_on_summary"/>
 
+	<com.android.settingslib.RestrictedSwitchPreference 
+            android:key="mtp_dirty_hack"
+            android:title="@string/enable_mtp_dirtyhack_title"
+            android:summary="@string/enable_mtp_dirtyhack_summary"
+            android:defaultValue="true" />
+
         <ListPreference
             android:key="select_usb_configuration"
             android:title="@string/select_usb_configuration_title"
